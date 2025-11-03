@@ -42,7 +42,7 @@ function AppointmentConfirmationEmail({
               alt="DentSpace"
               style={logo}
             />
-            <Text style={logoText}>DentWise</Text>
+            <Text style={logoText}>DentSpace</Text>
           </Section>
 
           <Heading style={h1}>Appointment Confirmed! 🦷</Heading>
