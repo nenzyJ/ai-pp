@@ -26,7 +26,7 @@ export function useBookedTimeSlots(doctorId: string, date: string) {
   });
 }
 
-export function useBookedAppointment() {
+export function useBookAppointment() {
   const queryClient = useQueryClient();
 
   return useMutation({

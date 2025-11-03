@@ -10,7 +10,7 @@ const Header = () => {
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src={"/logo.png"}
+            src={"/logot.svg"}
             alt="logo"
             width={32}
             height={32}

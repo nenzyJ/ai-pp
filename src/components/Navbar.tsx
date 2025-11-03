@@ -17,7 +17,7 @@ const Navbar = () => {
         <div className="flex items-center gap-8">
           <Link href="/dashboard">
             <Image
-              src="/logo.png"
+              src="/logot.svg"
               alt="logo"
               width={32}
               height={32}
@@ -39,7 +39,7 @@ const Navbar = () => {
             <Link
               href="/appointments"
               className={`flex items-center gap-2 transition-colors hover:text-foreground ${
-                pathname === "appointments"
+                pathname === "/appointments"
                   ? "text-foreground"
                   : "text-muted-foreground"
               }`}
