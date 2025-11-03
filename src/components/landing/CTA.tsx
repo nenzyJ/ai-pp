@@ -70,7 +70,7 @@ function CTA() {
                 <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-transparent rounded-2xl blur-xl scale-110"></div>
 
                 <Image
-                  src="/cta.png"
+                  src="/hero2.png"
                   alt="DentWise AI Assistant"
                   width={300}
                   height={300}
